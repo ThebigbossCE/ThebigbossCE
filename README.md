@@ -5,7 +5,7 @@
 
 <div align="center">
   <a href="https://github.com/ThebigbossCE">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+  <img  src="https://github.com/ThebigbossCE/ThebigbossCE/blob/main/grid-snake.svg"
        alt="snake" /></a>
 </div>
 
