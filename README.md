@@ -1,5 +1,5 @@
 <div align="center">
-<h1 align="center">Hey <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm ThebigbossCE</h1>
+<h1 align="center">Hey <img width="35" src="https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif">, I'm ThebigbossCE</h1>
 <h4 align="center">a network and system engineer, developer and admin. Coding projects to make all boring tasks of my life automatic.</h4>
 </div>
 
