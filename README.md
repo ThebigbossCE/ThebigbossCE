@@ -21,7 +21,7 @@
 
 - 🌏 I like travelling to visit new places
 
-- 📫 How to reach me **you don't, i don't spend much time online**
+- 📫 How to reach me? **check out my socials at the bottom of the page**
 
 <h5>“Happiness is when what you think, what you say, and what you do are in harmony.”</h5> 
 
@@ -45,6 +45,14 @@
 </div>
 
 ###
+
+### 🔗 Socials
+
+<p align="center">
+  <a href="https://twitch.tv/thebigbossce"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" /></a>
+  <a href="https://www.youtube.com/@thebigbossce"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+  <a href="https://discord.gg/7RgaKwUnyM"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=discord&logoColor=white" /></a>
+</p>
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/thebigbossce/count.svg?"  />
